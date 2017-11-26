@@ -1,7 +1,8 @@
 {
   "name": "es6",
   "version": "1.0.0",
-  "description": "",
+  "description": "a app to learn es6",
+  "repository":"git@github.com:lingduzero/es6.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
